@@ -36,10 +36,16 @@ video {
 
 #title img {
 	margin-top: 18px;
+    display: block;
+    margin: auto;
+    width: 10%;
+    position: relative;;
+	transform: translateY(500%);
 }
 
 #gamemode, #map {
 	font-weight: bold;
+	
 }
 
 #status-container {
